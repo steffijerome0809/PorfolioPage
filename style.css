@@ -117,6 +117,15 @@ body {
   height: 20px;
 }
 
+.fa-github {
+  font-size: 5em;
+  background-color: black;
+}
+
+.fa-linkedin {
+  font-size: 5em;
+  background-color: black;
+}
 @media screen and (min-width: 768px) {
   .toggle-button {
     display: none;
