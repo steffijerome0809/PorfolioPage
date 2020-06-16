@@ -3,7 +3,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: gainsboro;
+  background-color: whitesmoke;
 }
 
 .menu-bar {
@@ -106,6 +106,16 @@ body {
 }
 .card-contact {
   margin-top: 100px;
+}
+.inner {
+  overflow: hidden;
+}
+.inner img {
+  transition: all 1.5s ease;
+}
+
+.inner:hover img {
+  transform: scale(1.5);
 }
 .img-fluid {
   width: 200px;
