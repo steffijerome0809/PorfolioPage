@@ -6,6 +6,10 @@ body {
   background-color: gainsboro;
 }
 
+.menu-bar {
+  background: linear-gradient(-90deg, rgb(92, 8, 92), rgb(204, 74, 91));
+}
+
 :root {
   --color-black: #000000;
   --color-white: #ffffff;
@@ -112,10 +116,10 @@ body {
   line-height: 1px;
 }
 
-#footer {
+/* #footer {
   padding-top: 25em;
   height: 20px;
-}
+} */
 
 .fa-github {
   font-size: 5em;
